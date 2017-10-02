@@ -1,0 +1,4 @@
+#Sun Oct 01 16:28:38 CST 2017
+base.0=C\:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0F1F2\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0F1F2\\debug\\folders\\1000\\1f\\main\\classes.dex

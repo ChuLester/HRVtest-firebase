@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "573353136418",
+    "firebase_url": "https://hrvdata-99bb3.firebaseio.com",
+    "project_id": "hrvdata-99bb3",
+    "storage_bucket": "hrvdata-99bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573353136418:android:0371880f1049622b",
+        "android_client_info": {
+          "package_name": "org.nativescript.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573353136418-7c3a13snl0rim4uhe90l7ddckhcn4sjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZThTrmFLnn3afK5bZYT8oP-WqeMoOeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

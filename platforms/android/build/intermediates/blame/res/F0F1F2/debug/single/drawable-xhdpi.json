@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xhdpi\\background.png",
+        "source": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    }
+]

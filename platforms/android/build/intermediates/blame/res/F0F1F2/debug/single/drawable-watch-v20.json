@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.2.2\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.2.2\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\dxxli\\helloworld\\platforms\\android\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-auth\\11.2.2\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    }
+]

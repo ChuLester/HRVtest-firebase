@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-bluetooth",
+        "scope": null,
+        "escapedName": "nativescript-bluetooth",
+        "name": "nativescript-bluetooth",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\dxxli\\helloworld"
+    ]
+  ],
+  "_from": "nativescript-bluetooth@latest",
+  "_id": "nativescript-bluetooth@1.1.6",
+  "_inCache": true,
+  "_location": "/nativescript-bluetooth",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-bluetooth-1.1.6.tgz_1493625490033_0.6613126781303436"
+  },
+  "_npmUser": {
+    "name": "eddyverbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-bluetooth",
+    "scope": null,
+    "escapedName": "nativescript-bluetooth",
+    "name": "nativescript-bluetooth",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-bluetooth/-/nativescript-bluetooth-1.1.6.tgz",
+  "_shasum": "4df7f411aa698d0fc565a7fb1ff3606e363f9bf4",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-bluetooth",
+  "_where": "C:\\Users\\dxxli\\helloworld",
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-bluetooth/issues"
+  },
+  "dependencies": {},
+  "description": "Connect to and interact with Bluetooth LE peripherals",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "4df7f411aa698d0fc565a7fb1ff3606e363f9bf4",
+    "tarball": "https://registry.npmjs.org/nativescript-bluetooth/-/nativescript-bluetooth-1.1.6.tgz"
+  },
+  "gitHead": "47777d307c83a48d43fc3b7dfb31790d5e257a55",
+  "homepage": "https://github.com/eddyverbruggen/nativescript-bluetooth",
+  "keywords": [
+    "NativeScript",
+    "BLE",
+    "Bluetooth",
+    "Bluetooth LE",
+    "Bluetooth Smart",
+    "Bluetooth Low Energy"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/eddyverbruggen/nativescript-bluetooth/blob/master/LICENSE"
+  },
+  "main": "bluetooth",
+  "maintainers": [
+    {
+      "name": "eddyverbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    }
+  ],
+  "name": "nativescript-bluetooth",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    },
+    "plugin": {
+      "nan": "true",
+      "pan": "true",
+      "core3": "true",
+      "category": "Processing"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-bluetooth.git"
+  },
+  "scripts": {},
+  "typings": "bluetooth.d.ts",
+  "version": "1.1.6"
+}

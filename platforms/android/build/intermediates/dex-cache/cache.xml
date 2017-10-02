@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-transition-25.3.1_da537937ae7a3da3ec887f41fc705941b7222feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-android-sdk-4.27.0_abf50a3e9c6a4c9a16ad6c3aca8262e6f90b03b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-analytics-impl-11.2.2_f492cf052352f225db990075932ea3fc50be8f67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-fragment-25.3.1_6d2fec2e476a7f036ffa0288b330cba3bf7d7acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-auth-11.2.2_855779e2719328c0ecb32077282b4d0471ccbc2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a9ab7bfebf4a8d5c7fb1ac4e5dcf4bc4d6e3a0e">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-storage-11.2.2_e8aea458f61a267aae2129ac978b79d014414caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\bluetoothpermissions-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fdd701cd274d9556a39e6575802f561298591cd2">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-bluetoothpermissions-release_58bd7a45de36e4cf13781412fd015da1bdcd07bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-base-11.2.2_44e8fe44533212eb92f1aee64b7e9c6c8e8ca85c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\bolts-tasks-1.4.0_3d513e4e35d7d795cecf261fec21e4862466d290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\firebase-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-firebase-release_2a7f6077acf9e14bf9f1dce99bf51d9839c82793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-tasks-11.2.2_6c5b96367b700960711905ae9b0e1d2099acad50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\bolts-applinks-1.4.0_3656afd008c14a8f4cfd8deeb12bf11773311c9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="671e3171a25ffd26d01b9d7b548ae50374a9e303">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-auth-base-11.2.2_cf2cc6fa67924c4ee3ef0fe655e76b9d6f433604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\helloworld\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\binding-generator_ffd0c6387633da919f2d919be57cb61fe08659c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-common-11.2.2_d5bf429c1520164076ac553857156e10e7cac707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-messenger\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-messenger-4.27.0_5b72d8953c6d30c7546a9b1c904050aa413f7efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\helloworld\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\helloworld-runtime-unspecified_ddf5dc0a3cf1cdecd5509c8b2e2c9091b5d488e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-share\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-share-4.27.0_2bdfd565c32fb03e942441b0b0623ff999c5ac81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-appcompat-v7-25.3.1_5f0d5c1eb1c9ed27f0f3181ef774a4345364d6f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fef1e7957f1df7c5ff164c5fb2ae709bf3d942ee">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-auth-11.2.2_d8b9806dde0248afa588768e4a009f5bf9af1bc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-database-connection-11.2.2_380a7c53256e80ab09c8715f24cafa5798dc6d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-core-4.27.0_0988b3e6c994b9d2dd7c117140b0e55e1fffe762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-api-phone\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8f8c58325f0b364e30dca132b248ddabc71415e">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-auth-api-phone-11.2.2_240cc0aac66625fbaf44945e5fab7fd53659abac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\intermediates-exploded-aar-widgets-release_17955dfddf8d254bf72befb2547df3d767b6e3eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-customtabs-25.3.1_5f309aa93bd4b48a7f8732b706f6a9e0d2954d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-compat-25.3.1_b852e5261ecad6c672c51f76e3f2c6231247d05e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\gson-2.8.2_b061d9c4de2dff9f5591a3f5b0de137a6310f0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-login\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-login-4.27.0_f208c250d1dbf4202644f7c79efc2c1f4ec7d460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.android.gms-play-services-basement-11.2.2_a651188e0c4daf7184def91867eddf3f3e04b3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-iid-11.2.2_9aabccec824b6a07a71988f69dfe410358b9f36e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-animated-vector-drawable-25.3.1_44dc157d40d8176f1bfca126a7533446197a532c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-recyclerview-v7-25.3.1_ab436b37fd72fde4922ebfc3ce3807196a9af944.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-storage-common-11.2.2_e26ae3a8a8a309f20754f563c8a4e23b5bebe046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-media-compat-25.3.1_91071aa8f1d66f373e1a4ddeb399cceed06d8274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-vector-drawable-25.3.1_30eb97507dd736810a97d5380346fcaaaec5354d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-v4-25.3.1_0f6c429bb0fa6162e50d3b7f6b61758efd9b7990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\core-3.3.0_41d46294c345d50402846bc520a131cd529b654a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-analytics-11.2.2_2f0be96ed554ae1e7a6711c4cc7fd16b38041e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-applinks\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-applinks-4.27.0_946368fda5644623cbb76eec617084295d395050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-common-4.27.0_2693d49470e8125c0b3afb3cd10afd786031372b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-cardview-v7-25.3.1_1f349d262e87944fa549b5ab0a811721d84d1a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-design-25.3.1_9c34fd988fbef596dfd4f1cd239ec90b850bf5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-places\4.27.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.facebook.android-facebook-places-4.27.0_651db89109a2b72f36ecebecfda0056f4112a8f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-ui-25.3.1_623d938b08f4a202471f78cc91570a52b38da8b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.android.support-support-core-utils-25.3.1_2b07399fc313b5b77cf6103d5c801f1d309aef7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3352405f829252e602a47d252f11edd7c89d86ff">
+        <dex dex="C:\Users\dxxli\helloworld\platforms\android\build\intermediates\pre-dexed\F0F1F2\debug\com.google.firebase-firebase-database-11.2.2_99a30e50f08f20cf29bd8a688ff6489fb28e11f0.jar" />
+    </item>
+
+</items>

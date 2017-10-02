@@ -1,0 +1,26 @@
+<!-- https://docs.nativescript.org/angular/core-concepts/angular-navigation.html#page-router-outlet -->
+<ActionBar title="ArduinoTestApp" class="action-bar">
+</ActionBar>
+
+<StackLayout class="form">
+    <Button [text]='Connect' (tap)='ConnectFunction()'></Button>
+    <Button [text]='read' (tap)='ControlRead()'></Button>
+    
+    
+     <Button text='新增資料' (tap)='addData()'></Button>
+    
+        <Button text='test2' (tap)='showText()'></Button>>
+    
+    <TextField hint="Enter text" autocorrect="false" (textChange)="onTextChange($event)" (returnPress)="onReturn($event)" class="input input-border"></TextField>
+
+    
+    <TextView [(ngModel)]="tvtext" hint="Enter some text" returnKeyType="send" (returnPress)="submit($event)" [editable]="editState"
+    class="input input-border"></TextView>
+    
+
+    <Label [text]='ibi' style="font-size: 24;"></Label>
+    <Label [text]='complete' style="font-size: 24;"></Label>
+
+    
+    
+</StackLayout>
